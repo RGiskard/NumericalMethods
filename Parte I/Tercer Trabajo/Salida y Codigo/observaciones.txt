@@ -1,0 +1,2 @@
+Para ejecutar el código en c++, se requiere activar c++ 11
+compilar con -std=c++11
